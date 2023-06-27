@@ -1,4 +1,6 @@
 # Visualization of the speed difference
+![speed_visualization](https://github.com/DilerFeed/Visualization-of-the-speed-difference/assets/33964247/789417d5-7928-452f-9ed1-f0b9accf9c71)
+
 ## This program allows you to easily visualize the difference in speeds when overcoming an equal distance.
 ### You can download ready-made applications for platforms MacOS and Windows from this link on my google drive - https://drive.google.com/drive/folders/14qOcKKU-xv6071EQlEBFH5u4Khfv9Ppc?usp=sharing
 
